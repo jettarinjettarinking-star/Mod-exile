@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ThingDefs>
+  <List>
+    <ThingDef Type="Item" Name="3b294e05-84dd-461a-b6c2-fc877f2a8b6d" Parent="WanJie_DrugBase">
+      <ThingName>Dao Tao Fruit</ThingName>
+      <Rate>12</Rate>
+      <Desc>Unlocks your hidden potential.</Desc>
+      <TexPath>res/Sprs/object/object_AGinkgobiloba</TexPath>
+      <Color>ffffff</Color>
+      <OtherWorld>1</OtherWorld>
+      <DownMod>1</DownMod>
+      <Item Kind="Consumable">
+        <BeMade>
+          <CostStuffCount>1</CostStuffCount>
+          <CostItems>
+            <Item name="Item_Wood" count="1" />
+          </CostItems>
+        </BeMade>
+        <Food>
+          <Nutrition>100</Nutrition>
+          <Water>100</Water>
+          <PracticeNutrition>9999</PracticeNutrition>
+        </Food>
+        <Elixir>
+          <ZhuJi>30000</ZhuJi>
+          <Ling>0</Ling>
+          <Modifier>42073824-88f0-404a-af8c-1d2d8f40d7da</Modifier>
+          <DiscipleOnly>0</DiscipleOnly>
+        </Elixir>
+      </Item>
+      <CostStuffCount>1</CostStuffCount>
+      <Light>
+        <Color>ffffff</Color>
+      </Light>
+      <ProduceMode>
+        <ProduceBuildings>
+          <li>
+            <Building>Bonfire</Building>
+            <Count>1</Count>
+          </li>
+        </ProduceBuildings>
+      </ProduceMode>
+    </ThingDef>
+  </List>
+</ThingDefs>
