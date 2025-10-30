@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModifierDefs>
+  <List>
+    <Modifier Name="42073824-88f0-404a-af8c-1d2d8f40d7da">
+      <DisplayName>Talent</DisplayName>
+      <Desc>Heavenly Talent</Desc>
+      <MaxStack>1</MaxStack>
+      <Duration>-1</Duration>
+      <BaseFive>10,10,10,10,10</BaseFive>
+      <OtherWorld>1</OtherWorld>
+      <Sync>1</Sync>
+      <Display>1</Display>
+      <Skills>
+        <li Name="Fight" Level="200" LevelOver="0" Type="1" />
+        <li Name="Qi" Level="200" LevelOver="0" Type="1" />
+        <li Name="SocialContact" Level="200" LevelOver="0" Type="1" />
+        <li Name="Medicine" Level="200" LevelOver="0" Type="1" />
+        <li Name="Cooking" Level="200" LevelOver="0" Type="1" />
+        <li Name="Building" Level="200" LevelOver="0" Type="1" />
+        <li Name="Farming" Level="200" LevelOver="0" Type="1" />
+        <li Name="Mining" Level="200" LevelOver="0" Type="1" />
+        <li Name="Art" Level="200" LevelOver="0" Type="1" />
+        <li Name="Manual" Level="200" LevelOver="0" Type="1" />
+        <li Name="DouFa" Level="200" LevelOver="0" Type="1" />
+        <li Name="DanQi" Level="200" LevelOver="0" Type="1" />
+        <li Name="Fabao" Level="200" LevelOver="0" Type="1" />
+        <li Name="FightSkill" Level="200" LevelOver="0" Type="1" />
+        <li Name="Barrier" Level="200" LevelOver="0" Type="1" />
+        <li Name="Zhen" Level="200" LevelOver="0" Type="1" />
+      </Skills>
+      <Properties>
+        <li Name="PotentialOfBasepracticeAddValue" AddP="0" AddV="10" BAddP="0" BAddV="0" Type="1" />
+        <li Name="MoveSpeed" AddP="0" AddV="50" BAddP="0" BAddV="0" Type="1" />
+        <li Name="MindStateBaseValue" AddP="0" AddV="100005" BAddP="0" BAddV="0" Type="1" />
+        <li Name="ToleranceTMin" AddP="0" AddV="-500" BAddP="0" BAddV="0" Type="1" />
+        <li Name="ToleranceTMax" AddP="0" AddV="500" BAddP="0" BAddV="0" Type="1" />
+        <li Name="VisionRadius" AddP="0" AddV="1000" BAddP="0" BAddV="0" Type="1" />
+        <li Name="PracticeRateAddPFromDan" AddP="0" AddV="200" BAddP="0" BAddV="0" Type="1" />
+        <li Name="ButcherYieldEfficiency" AddP="0" AddV="100" BAddP="0" BAddV="0" Type="1" />
+        <li Name="PlantHarvestYieldEfficiency" AddP="0" AddV="100" BAddP="0" BAddV="0" Type="1" />
+        <li Name="MiningYieldEfficiency" AddP="0" AddV="100" BAddP="0" BAddV="0" Type="1" />
+        <li Name="MadeQualityAddValue" AddP="0" AddV="200" BAddP="0" BAddV="0" Type="1" />
+        <li Name="ComfyTMin" AddP="0" AddV="-500" BAddP="0" BAddV="0" Type="1" />
+        <li Name="ComfyTMax" AddP="0" AddV="500" BAddP="0" BAddV="0" Type="1" />
+        <li Name="BaseEmotionAddV" AddP="0" AddV="1000" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_SneakValue" AddP="0" AddV="1000" BAddP="0" BAddV="0" Type="1" />
+        <li Name="MaxAge" AddP="0" AddV="9999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="IntelligenceSkillEXPConstant" AddP="0" AddV="1000" BAddP="0" BAddV="0" Type="1" />
+        <li Name="DeepPracticeSpeedSpecialCoefficient" AddP="0" AddV="1000" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_FabaoNum" AddP="0" AddV="5" BAddP="0" BAddV="0" Type="1" />
+        <li Name="SpeedOfMindStateCoefficient" AddP="0" AddV="-1" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NutritionWaterAutoRecover" AddP="0" AddV="1000" BAddP="0" BAddV="0" Type="1" />
+        <li Name="GlobalEfficiency" AddP="0" AddV="1000" BAddP="0" BAddV="0" Type="1" />
+        <li Name="TreatSpeed" AddP="0" AddV="200" BAddP="0" BAddV="0" Type="1" />
+        <li Name="CookingSuccessChance" AddP="0" AddV="100" BAddP="0" BAddV="0" Type="1" />
+        <li Name="ManufactureExpectQuality" AddP="0" AddV="100" BAddP="0" BAddV="0" Type="1" />
+      </Properties>
+      <CustItemType>Dan</CustItemType>
+    </Modifier>
+  </List>
+</ModifierDefs>
